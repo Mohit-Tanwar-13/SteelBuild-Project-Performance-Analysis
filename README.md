@@ -298,12 +298,12 @@ Projects exceeding their approved budgets should receive immediate management re
 
 ## 📁 Project Structure
 
-The repository will contain:
+Files in this repository:
 
-- **Excel/** — Final SteelBuild Excel workbook
-- **Dashboard/** — Final dashboard screenshot
-- **Documentation/** — Supporting project documentation
-- **README.md** — Project documentation
+- `README.md` — Project documentation and analysis summary
+- `SteelBuild_Project_Performance_Analysis.xlsx` — Complete Excel analysis workbook
+- `SteelBuild_Dashboard.png` — Final management dashboard preview
+
 
 ---
 
