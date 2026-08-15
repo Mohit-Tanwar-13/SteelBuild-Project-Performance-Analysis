@@ -152,6 +152,10 @@ Compares average budget utilization across project health categories.
 
 The final interactive dashboard provides an executive-level view of project performance.
 
+### Dashboard Preview
+
+![SteelBuild Project Performance Dashboard](SteelBuild_Dashboard.png)
+
 ### KPIs
 
 | KPI | Value |
